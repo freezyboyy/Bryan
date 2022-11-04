@@ -1,0 +1,12 @@
+body {
+  background-image: url(pngtree-japanese-poster-japan-tourism-japanese-zephyr-image_16665.jpg);
+ background size: cover;
+ display: grid;
+ place-content: center;
+
+
+}
+.container{
+    display: grid;
+    grid-auto-flow: column;
+}
